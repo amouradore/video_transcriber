@@ -1,0 +1,7 @@
+customtkinter>=5.2.0
+yt-dlp==2023.12.30
+pytube>=15.0.0
+moviepy>=1.0.3
+SpeechRecognition>=3.10.0
+urllib3==2.1.0
+requests>=2.31.0
