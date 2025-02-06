@@ -21,6 +21,7 @@
 نسخ المستودع:
 
 git clone https://github.com/amouradore/video_transcriber.git 
+
 cd video_transcriber
 
 تثبيت المتطلبات:
